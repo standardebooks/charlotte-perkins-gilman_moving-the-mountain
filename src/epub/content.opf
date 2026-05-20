@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charlotte-perkins-gilman/moving-the-mountain</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-20T17:24:18Z</dc:date>
+		<meta property="dcterms:modified">2026-05-20T17:24:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,14 +53,14 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A man recovers his awareness after thirty years abroad suffering from a head injury and returns home to find society utterly changed at its most fundamental levels.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;John, a man who has spent the last thirty years in Tibet unaware of his surroundings after a head injury, recovers consciousness and returns home, only to find that society has rapidly and drastically changed in the time he has been away. The world as he knew it has now become a feminist utopia where civil rights, efficiency, and quality are of the utmost importance. The residents do their best to explain all of the societal changes that have happened in the past thirty years to John—who they consider to be a sociological dinosaur—while also pointing out all the flaws in the system they have left behind. Food and nutrition have been completely overhauled, work is nothing but enjoyable for everyone, and poverty is a concept that only exists in textbooks—a challenging world to understand and adapt to for someone who has missed thirty years.&lt;/p&gt;
-			&lt;p&gt;Originally published in 1911, &lt;i&gt;Moving the Mountain&lt;/i&gt; is a prime example of utopian writing, and is &lt;a href="https://standardebooks.org/ebooks/charlotte-Perkins-gliman"&gt;Charlotte Perkins Gilman’s&lt;/a&gt; fictionalized realization of the principles for societal change she outlined in &lt;a href="https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics"&gt;&lt;i&gt;Women and Economics&lt;/i&gt;&lt;/a&gt;—her 1898 treatise on the human condition from her social Darwanist and suffragist perspective. Following in the footsteps of &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;Wells&lt;/a&gt; and other early science fiction writers, Perkins outlines a world unique and strange, yet in many ways oddly familiar to the modern reader. It forms the first part of her thematically linked &lt;a href="https://standardebooks.org/collections/utopian-trilogy"&gt;Utopian trilogy&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;John, a man who has spent the last thirty years in Tibet recovering from a head injury and totally unaware of his surroundings, regains consciousness and returns home, only to find that society has rapidly and drastically changed. The world as he knew it has become a feminist utopia, where civil rights, efficiency, and quality are of the utmost importance. The residents do their best to explain all of the societal changes that have happened in the past thirty years to John—who they consider to be a sociological dinosaur—while also pointing out all the flaws in the system they left behind. Food production and nutrition have been completely overhauled, work is nothing but a pleasure for every worker, and poverty is a concept that only exists in textbooks.&lt;/p&gt;
+			&lt;p&gt;Published in 1911, &lt;i&gt;Moving the Mountain&lt;/i&gt; is a prime example of Utopian writing, and is &lt;a href="https://standardebooks.org/ebooks/charlotte-Perkins-gliman"&gt;Charlotte Perkins Gilman’s&lt;/a&gt; realization of the principles for societal change she outlined in &lt;a href="https://standardebooks.org/ebooks/charlotte-perkins-gilman/women-and-economics"&gt;&lt;i&gt;Women and Economics&lt;/i&gt;&lt;/a&gt;. Following in the footsteps of &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; and other early science fiction writers, Perkins outlines a world unique and strange, yet in many ways oddly familiar to the modern reader. It forms the first part of her thematically linked &lt;a href="https://standardebooks.org/collections/utopian-trilogy"&gt;Utopian trilogy&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/66864</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100371166</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">49021</meta>
+		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Moving_the_Mountain_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-perkins-gilman_moving-the-mountain</meta>
 		<dc:creator id="author">Charlotte Perkins Gilman</dc:creator>
@@ -86,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
