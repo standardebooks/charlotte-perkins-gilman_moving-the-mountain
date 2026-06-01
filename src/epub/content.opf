@@ -30,22 +30,22 @@
 		<dc:title id="title">Moving the Mountain</dc:title>
 		<meta property="file-as" refines="#title">Moving the Mountain</meta>
 		<dc:subject id="subject-1">Feminism -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008120367</meta>
 		<dc:subject id="subject-2">Utopias -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008113158</meta>
 		<dc:subject id="subject-3">Women -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2010118138</meta>
 		<dc:subject id="subject-4">Utopian fiction</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<dc:subject id="subject-5">Socialism -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-5">LCHS</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2010113862</meta>
 		<dc:subject id="subject-6">Political fiction, American</dc:subject>
-		<meta property="authority" refines="#subject-6">LCHS</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh85104356</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Utopian Trilogy</meta>
